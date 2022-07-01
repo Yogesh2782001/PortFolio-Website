@@ -2,7 +2,7 @@
 
 This is my Portfolio Website developed by me.
  
- Sections:
+ Sections:<br>
      - Home <br>
      - About Me <br>
      - Hobbies <br>
