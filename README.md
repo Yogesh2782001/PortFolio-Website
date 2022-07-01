@@ -9,4 +9,4 @@ This is my Portfolio Website developed by me.
      - Skills 
      - Contact 
      
-(portfolio.png)
+portfolio.png
